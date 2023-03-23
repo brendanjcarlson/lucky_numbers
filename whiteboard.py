@@ -10,7 +10,5 @@
 # Output: 3
 # Explanation: 1, 2 and 3 are all lucky numbers, return the largest of them.
 
-
-
 def solution(a_list):
     pass
