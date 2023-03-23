@@ -13,6 +13,7 @@ class TestWhiteboard(unittest.TestCase):
 
     def test_4(self):
         self.assertEqual(solution([4, 4, 4, 4, 3, 2, 1, 1]), 4)
+
     def test_5(self):
         self.assertEqual(solution([1]), 1)
 
